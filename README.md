@@ -3,7 +3,7 @@
 To simulate and synthesis half adder using vivado.
 
 # Apparatus Required:
-vivado 2023.2 software.
+vivado 2023.2 software. 
 
 #Procedure:
 STEP:1 Start the vivado software, Select and Name the New project.
